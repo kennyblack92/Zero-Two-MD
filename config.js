@@ -14,6 +14,6 @@ ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'true' : process.env.ONLY_GRO
 ANTI_LINK: process.env.ANTI_LINK === undefined ? 'true' : process.env.ANTI_LINK,
 ANTI_BOT: process.env.ANTI_BOT === undefined ? 'true' : process.env.ANTI_BOT,
 ALIVE: process.env.ALIVE === undefined ? `default` : process.env.ALIVE,
-FOOTER: process.env.FOOTER === undefined ? '©𝚉𝙴𝚁𝙾-𝚃𝚆𝙾 𝙼𝙳' : process.env.FOOTER,
-LOGO: process.env.LOGO === undefined ? `https://github.com/vihangayt0/ZeroTwo-Uploads/blob/main/ZERO-TWO.png?raw=true` : process.env.LOGO
+FOOTER: process.env.FOOTER === undefined ? '©ᴮᴸᴬᶜᴷ⁻ᴴᴬᵀ' : process.env.FOOTER,
+LOGO: process.env.LOGO === undefined ? `https://i.imgur.com/lUhGWo3.jpeg?raw=true` : process.env.LOGO
 };
